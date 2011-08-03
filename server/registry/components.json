@@ -1,0 +1,10 @@
+[{
+  "name": "tpb",
+  "version": "0.1",
+  "routes": {
+    "/feeds": {
+      "method": "get",
+      "api": "getFeeds"
+    }
+  }
+}]
